@@ -70,6 +70,7 @@ li {
     font-weight: bold;
     font-size: 17px;
     text-align: justify;
+    text-decoration: line-through;
 }
 .p3 {
     font-family: "Ebrima";
