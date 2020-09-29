@@ -8,7 +8,7 @@ body {
     background-color: Lavender;
     color: black;
     font-family: "Times New Roman";
-    background-image: url(/Wall.jpg), url(/Wall.jpg);
+    background-image: url(Wall.jpg), url(Wall.jpg);
     background-position: left, right;
     background-repeat: repeat-y, repeat-y;
 }
